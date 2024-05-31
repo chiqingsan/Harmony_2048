@@ -1,0 +1,6 @@
+{
+  "layered-image": {
+    "background": "$media:cat",
+    "foreground": "$media:cat"
+  }
+}
